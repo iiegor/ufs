@@ -20,3 +20,7 @@ $ npm install --save ufs
 
 ### listResources(path)
 > List all resources (files and folders) located at the given path
+
+## License
+
+MIT © [Iegor Azuaga](https://github.com/iiegor)
