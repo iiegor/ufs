@@ -1,6 +1,12 @@
 # ufs
 > Node.js file system utilities
 
+## Install
+
+```bash
+$ npm install --save ufs
+```
+
 ## API
 
 ### createDir(path)
