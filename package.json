@@ -1,0 +1,13 @@
+{
+  "name": "ufs",
+  "description": "File system utilities",
+  "version": "0.1.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "license": "MIT"
+}
